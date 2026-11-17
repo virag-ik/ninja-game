@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Ninja Arashi",
+    "slug": "ninja-arashi",
+    "version": "1.0.0",
+    "orientation": "landscape",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#0d0d0d",
+    "ios": {
+      "supportsTablet": true,
+      "statusBarHidden": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0d0d0d"
+      },
+      "navigationBar": {
+        "visible": "sticky-immersive"
+      }
+    },
+    "web": {
+      "backgroundColor": "#0d0d0d"
+    },
+    "plugins": [
+      "expo-asset"
+    ]
+  }
+}
